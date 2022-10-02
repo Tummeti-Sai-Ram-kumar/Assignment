@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tummeti-Sai-Ram-kumar/Assignment/static/css/main.433fe23f.css",
+    "main.js": "/Tummeti-Sai-Ram-kumar/Assignment/static/js/main.47834b96.js",
+    "index.html": "/Tummeti-Sai-Ram-kumar/Assignment/index.html",
+    "main.433fe23f.css.map": "/Tummeti-Sai-Ram-kumar/Assignment/static/css/main.433fe23f.css.map",
+    "main.47834b96.js.map": "/Tummeti-Sai-Ram-kumar/Assignment/static/js/main.47834b96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.433fe23f.css",
+    "static/js/main.47834b96.js"
+  ]
+}
